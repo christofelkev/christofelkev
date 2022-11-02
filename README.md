@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android and Backend 
 - 🌱 I’m currently learning java,js,kotlin
 - 📫 How to reach me christofel.kevin1@gmail.com
-- I like ǝɯᴉuɐ
+- ✨ I like ǝɯᴉuɐ
 
 
 <!---
