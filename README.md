@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christofelkev
 - 👀 I’m interested in Android and Backend 
-- 🌱 I’m currently learning java,js,kotlin
+- 🌱 I’m currently learning jandroid development
 - ✨ I like ǝɯᴉuɐ
 
 
