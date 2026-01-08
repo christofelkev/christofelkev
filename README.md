@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=Christofel%20Kev&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Christofel%20Kev&fontSize=70" alt="Banner" />
+  <br />
+  <img src="https://avatars.githubusercontent.com/u/116001020?v=4" width="150" alt="Christofel Kev"/>
 </div>
 
 <div align="center">
