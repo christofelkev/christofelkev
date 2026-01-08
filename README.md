@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=Hi,%20I'm%20Christofel%20Kev!%20👋&fontSize=50" />
+  <img src="https://avatars.githubusercontent.com/u/116001020?v=4" />
 </div>
 
 <div align="center">
