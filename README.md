@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/116001020?v=4" width="150" height="150" alt="Christofel Kev Avatar"/>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=Christofel%20Kev&fontSize=70" />
 </div>
 
 <div align="center">
