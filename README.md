@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Christofel%20Kev&fontSize=70" alt="Banner" />
-  <br />
-  <img src="https://avatars.githubusercontent.com/u/116001020?v=4" width="150" alt="Christofel Kev"/>
-</div>
-
-<div align="center">
   <h3> 🖥️ Backend Enthusiast </h3>
   <p>Building robust server-side logic.</p>
 </div>
