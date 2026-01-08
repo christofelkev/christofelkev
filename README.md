@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/116001020?v=4" />
+  <img src="https://avatars.githubusercontent.com/u/116001020?v=4" width="150" height="150" alt="Christofel Kev Avatar"/>
 </div>
 
 <div align="center">
