@@ -9,6 +9,10 @@
 - 🔭 I’m interested in building scalable **Backend Systems**.
 - ✨ Fun fact: I really like **ǝɯᴉuɐ** ⚡
 
+## 📺 AniList Stats
+
+![AniList Stats](https://anicards.alpha49.com/stats?username=chrivinid)
+
 ### 🛠️ Tech Stack
 
 #### ⚙️ Backend
