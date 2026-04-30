@@ -11,7 +11,7 @@
 
 ## 📺 AniList Stats
 
-![AniList Stats](https://anicards.alpha49.com/stats?username=chrivinid)
+[![AniList Stats](https://anicards.alpha49.com/stats?username=chrivinid)](https://anicards.alpha49.com/user?userId=339105&username=chrivinid)
 
 ### 🛠️ Tech Stack
 
