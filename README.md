@@ -1,6 +1,6 @@
 <div align="center">
-  <h3> 🖥️ Backend Enthusiast </h3>
-  <p>Building robust server-side logic.</p>
+  <h3> 🧠 Backend Developer who actually deploys </h3>
+  <p>From writing PHP code to managing VPS, debugging production issues, and making things run reliably.</p>
 </div>
 
 <hr />
