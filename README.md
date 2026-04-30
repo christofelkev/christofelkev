@@ -8,10 +8,9 @@
 ### 🚀 About Me
 - 🔭 I’m interested in building scalable **Backend Systems**.
 - ✨ Fun fact: I really like **ǝɯᴉuɐ** ⚡
-
+- 
 ## 📺 AniList Stats
-
-[![AniList Stats](img150(https://api.anicards.alpha49.com/card.svg?userId=339105&cardType=profileOverview&variation=default&colorPreset=default))
+[![AniList Stats](https://api.anicards.alpha49.com/card.svg?userId=339105&cardType=profileOverview&variation=default&colorPreset=default)](https://anilist.co/user/chrivinid/)
 
 ### 🛠️ Tech Stack
 
