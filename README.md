@@ -67,11 +67,6 @@
 </p>
 
 
-### 🐍 Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/christofelkev/christofelkev/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 ---
 <div align="center">
   <sub>Let's connect! find me on <a href="https://www.linkedin.com/in/christofel-kevin/">LinkedIn</a></sub>
