@@ -1,16 +1,51 @@
+<!-- Profile Views Counter -->
 <div align="center">
-  <h3> 🧠 Backend Developer who actually deploys </h3>
-  <p>From writing PHP code to managing VPS, debugging production issues, and making things run reliably.</p>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=christofelkev&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+<h3>🧠 Backend Developer who actually deploys</h3>
+<p>From writing PHP code to managing VPS, debugging production issues, and making things run reliably.</p>
+
 </div>
 
 <hr />
 
 ### 🚀 About Me
-- 🔭 I’m interested in building scalable **Backend Systems**.
+- 🔭 I'm interested in building scalable **Backend Systems**.
 - ✨ Fun fact: I really like **ǝɯᴉuɐ** ⚡
-- 
+
+---
+
+## 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=christofelkev&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/christofelkev)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=christofelkev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=christofelkev&theme=algolia&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=christofelkev&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</p>
+
+---
+
+## 📅 Activity Graph
+
+[![Christofel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=christofelkev&theme=react-dark&hide_border=true&area=true)](https://github.com/christofelkev)
+
+---
+
 ## 📺 AniList Stats
+
 [![AniList Stats](https://api.anicards.alpha49.com/card.svg?userId=339105&cardType=profileOverview&variation=default&colorPreset=default)](https://anilist.co/user/chrivinid/)
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -57,17 +92,8 @@
   <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-
-### 📊 GitHub Stats
-<p align="left">
-<a href="https://github.com/christofelkev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=christofelkev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=christofelkev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-
 ---
+
 <div align="center">
-  <sub>Let's connect! find me on <a href="https://www.linkedin.com/in/christofel-kevin/">LinkedIn</a></sub>
+  <sub>Let's connect! Find me on <a href="https://www.linkedin.com/in/christofel-kevin/">LinkedIn</a></sub>
 </div>
