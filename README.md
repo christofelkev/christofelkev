@@ -16,6 +16,14 @@
 
 ---
 
+## 💼 What I Do
+
+- 🚀 Deploy and maintain production web applications
+- 🐛 Debug production issues on Linux VPS
+- ⚡ Optimize SQL queries and backend performance
+- 🔗 Build REST APIs for web & mobile apps
+- 🤖 Automate repetitive tasks with Bash & AI tools
+
 ## 🏆 Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=christofelkev&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/christofelkev)
