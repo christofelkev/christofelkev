@@ -90,6 +90,7 @@
 <p>
   <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-1A1A1A?style=for-the-badge&logo=opencode&logoColor=white" />
 </p>
 
 ---
