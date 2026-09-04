@@ -40,7 +40,7 @@
 
 ## 📅 Activity Graph
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=christofelkev&theme=react&hide_border=true)](https://github.com/christofelkev)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christofelkev&theme=github_dark)
 
 ---
 
