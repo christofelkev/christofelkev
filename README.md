@@ -40,7 +40,7 @@
 
 ## 📅 Activity Graph
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christofelkev&show_icons=true&theme=react&hide_border=true)](https://github.com/christofelkev)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christofelkev&theme=github_dark)
 
 ---
 
