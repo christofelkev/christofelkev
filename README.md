@@ -40,7 +40,7 @@
 
 ## 📅 Activity Graph
 
-[![Christofel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=christofelkev&theme=react-dark&hide_border=true&area=true)](https://github.com/christofelkev)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=christofelkev&theme=react&hide_border=true)](https://github.com/christofelkev)
 
 ---
 
