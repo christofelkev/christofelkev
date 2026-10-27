@@ -38,17 +38,24 @@
 
 ---
 
-## 📅 Activity Graph
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christofelkev&theme=github_dark)
+## 📊 Activity
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📺 AniList Stats</h3>
+      <a href="https://anilist.co/user/chrivinid/">
+        <img src="https://api.anicards.alpha49.com/card.svg?userId=339105&cardType=profileOverview&variation=default&colorPreset=default" width="100%" alt="AniList Stats" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📅 Activity Graph</h3>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christofelkev&theme=github_dark" width="100%" alt="GitHub Activity Graph" />
+    </td>
+  </tr>
+</table>
 
-## 📺 AniList Stats
-
-[![AniList Stats](https://api.anicards.alpha49.com/card.svg?userId=339105&cardType=profileOverview&variation=default&colorPreset=default)](https://anilist.co/user/chrivinid/)
-
----
 
 ### 🛠️ Tech Stack
 
